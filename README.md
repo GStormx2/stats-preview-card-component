@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -23,8 +22,10 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop:
 ![](./screenshot.png)
-
+#### Mobile:
+![](./screenshot-mobile.png)
 
 ### Links
 
