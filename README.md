@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/newbies-first-try-with-html-css-flexbox-and-grid-iAYzEmxn8)
+- Live Site URL: [Add live site URL here](https://stats-preview-card-component-flame.vercel.app/)
 
 ## My process
 
