@@ -25,7 +25,7 @@ Users should be able to:
 #### Desktop:
 ![](./screenshot.png)
 #### Mobile:
-![](./screenshot-mobile.png){:height="50%" width="50%"}
+![](./screenshot-mobile.png)
 
 ### Links
 
